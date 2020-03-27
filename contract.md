@@ -7,52 +7,48 @@ IF THE SUPPLIER IS DEVELOPING SOFTWARE FOR A CLIENT THEN ANOTHER TEMPLATE SHOULD
 # SUPPLY OF SERVICES AGREEMENT
  
 DATE:
-Party 1/Client:
 
+1. Party 1/Client:
 Enter details of company including name, registration number and full address
 
-Point of contact:
-
+2. Point of contact:
 Representative of Party 1 for contact
-
 [ADDRESS]
 [PHONE]
 [EMAIL ADDRESS]
-Party 2/Supplier:
 
+3. Party 2/Supplier:
 Enter details of company including name, registration number and full address
 
-Point of contact:
-
+4. Point of contact:
 Representative of Party 2 for contact
-
 Email address for notices:
-
 Commencement Date:
-
 On the date of signature unless agreed otherwise.
-Term:
 
+5. Term:
 Rolling contract terminated with notice 
-Notice period:
 
+6. Notice period:
 4 week notice
-1. Purpose:
+
+7. Purpose:
 [Market Making] [The Supplier offers a service of buying and selling the Client’s cryptocurrency [name of cryptocurrency] (Client Cryptocurrency) on different cryptocurrency exchange markets (Market Making). This service is automated and customised to the needs of the Client. The Client shall lend Client Cryptocurrency, cryptocurrency, fiat currency inventory to the Supplier (the Inventory). Details about the Inventory are described in the Charges and Payments section. The Supplier uses the Inventory of the Client to engage in Market Making activity on cryptocurrency exchanges. The goal of this Market Making activity is to endeavour to stabilise the price of the Client Cryptocurrency and to work on reducing the difference between the price of the Client Cryptocurrency on buy and the sell side of the Client Cryptocurrency market.]
 
-2. Services:
+8. Services:
 Describe services to be provided in connection with this agreement. The services consist of [market making the Client Cryptocurrency]. Further specifications of the services are described in the Appendix.
 
-3. Client Obligations:
+9. Client Obligations:
 [Market Making] [The Client represents that the Client Cryptocurrency is not a regulated financial instrument in the jurisdiction where it is incorporated and in all other relevant jurisdictions where the token is listed or made available. The Supplier is able to request from the Client legal opinions as may be available to confirm that the Client Cryptocurrency is not a regulated financial instrument.]
 
-4. Supplier Obligations:
+10. Supplier Obligations:
 [Market Making] [The Supplier will ensure that the Client is updated regularly on the performance of the Services. A  report will be provided on a monthly basis or as agreed otherwise. The report will cover the balance of Inventory remaining and how that Inventory  has been used during the month. This report will be provided or made available by the Supplier at the end of every month but no later than 14 days after the end of the month.]
 
-5. Special Conditions:
+11. Special Conditions:
 [Market Making] [The parties agree that the Market Making activity shall not consist of any trading that involves the Supplier trading the Client Cryptocurrency with the Client or a connected party of the Client on cryptocurrency exchanges in what is generally described as ’wash trading’. 
 The parties agree that the Market Making services should not consist of any illegal trading activity.]
-6. Charges and Payments:
+
+12. Charges and Payments:
 Describe charges and payment terms in connection with this agreement
 [currency] 
 [hourly] [fixed]
@@ -62,20 +58,20 @@ The Supplier will issue an invoice at the end of the month for the Services prov
 [Exchange rates] If the Client pays in cryptocurrency then the exchange rate of Coinbase Pro will be used for any bitcoin or Ethereum payment plus an additional charge of 2.5% handling fee. Any payments in other cryptocurrencies will be agreed in writing on a case by case basis. 
 [Market Making] [The Supplier must receive from the Client: Client Cryptocurrency, cryptocurrency and fiat currency inventory (Inventory) in order for the Supplier to start the Market Making service.  The Inventory belongs to the Client at all times. 
 
-6.1 The procedure for requesting Inventory shall be as follows:
+12.1 The procedure for requesting Inventory shall be as follows:
 The Supplier will send a drawdown request to the Client via email. The drawdown request will indicate the amount of Client Cryptocurrency, cryptocurrency and or fiat required as Inventory and payment details. The Client will confirm the drawdown by email and send payment to the Supplier. In the event that the contract is terminated then the Inventory shall be returned within 60 days. 
 
-7. Limitation of liability 
+13. Limitation of liability 
 In this services contract the Supplier excludes its liability for the services provided and in the event that the Client were to take action the maximum claim as indicated in this contract that the Client would be able to make is [USD1,000]
 
 [Market Making] [The cryptocurrency industry is an industry where hacking is prevalent. The Supplier will do its best to keep safe all Inventory it receives from the Client however it shall not be held liable for any lost inventory as a result of hacking of an exchange or wallet. All liability for such losses is expressly excluded.] 
 
-8. Intellectual Property
+14. Intellectual Property
 In a services contract it is important to understand who owns the work created by the Supplier. This may vary depending on the type of contract with the Supplier. The default of this contract is that the Supplier keeps ownership of the Intellectual Property and licenses some of the works produced to the Client to use solely for the purpose of this agreement. However if it is agreed otherwise then fill in the box opposite to show the particular ownership/licensing arrangement agreed upon. 
 [Default Text] Supplier is the owner of the Intellectual Property in relation to the services provided and as described in the Standard Terms. 
 [Market Making] [Use of Software for Reports] The Supplier may offer the Client the ability to see reports on the progress of its Market Making services through the use of software. All such software provided for that purpose is the Intellectual Property of the Supplier. Such software is provided on an as is basis and the Supplier shall not be liable for any defects with the software which results in any losses whether direct or indirect for the Client. 
 
-9. Dispute Resolution:
+15. Dispute Resolution:
 Dispute Resolution may be used before two parties decide to start legal proceedings against each other. This may consist of informal dispute resolution between the parties and or mediation. This process does not stop either party from taking action in court if the dispute resolution fails. 
 
 [Dispute Resolution clause]. All disputes will be handled in confidence and neither party shall make a public announcement about any dispute. If a dispute arises out of or in connection with these terms or the performance, validity or enforceability of it (Dispute) then the parties shall follow the procedure set out in this clause: 
@@ -85,21 +81,21 @@ Either party shall give to the other party written notice of the Dispute, settin
 
 On service of the Dispute Notice, the parties shall attempt in good faith to resolve the Dispute. If the parties are for any reason unable to resolve the Dispute within 30 days of it being referred to them, the parties will attempt to settle it by mediation in accordance with the CEDR Model Mediation Procedure.
 
-10. Arbitration: 
+16. Arbitration: 
 
 If the parties agree to use Arbitration then this may overrule their ability to take the other party to court and enforce their rights in open court. Arbitration is in general in private and confidential and the results are typically binding. 
 Any dispute arising out of or in connection with this contract, including any question regarding its existence, validity or termination, shall be referred to and finally resolved by arbitration under the LCIA Rules, which Rules are deemed to be incorporated by reference into this clause.
 The existence of a Dispute between the parties and arbitration itself shall be confidential between the parties. The number of arbitrators shall be one. The seat, or legal place, of arbitration shall be in London. The language to be used in the arbitral proceedings shall be English. The decision of the Arbitrator shall be final. The parties agree, to the furthest extent possible, to waive all rights to court proceedings.
 
-11. Governing Law
+17. Governing Law
 
 This determines what laws will be used when interpreting this contract between the parties and the dispute between the parties. England and Wales
-12. Jurisdiction
 
-This will determine which courts are able to be used to resolve the dispute between the parties. Indicating a jurisdiction does not mean necessarily that a court will be able to hear your case. That will depend on the interpretation of jurisdiction at the time you make an application. 
-England and Wales
+18. Jurisdiction
 
-STANDARD TERMS:
+This will determine which courts are able to be used to resolve the dispute between the parties. Indicating a jurisdiction does not mean necessarily that a court will be able to hear your case. That will depend on the interpretation of jurisdiction at the time you make an application. England and Wales
+
+# STANDARD TERMS:
 
 The parties enter into this Agreement for the fulfillment of the Purpose stated in the Form and agree to comply with the following terms.
 Definitions and Interpretation
