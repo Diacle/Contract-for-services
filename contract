@@ -10,42 +10,22 @@ Party 1/Client:
 
 Enter details of company including name, registration number and full address
 
-
-
-
-
-
 1. Point of contact:
 
 Representative of Party 1 for contact
-
 
 [ADDRESS]
 [PHONE]
 [EMAIL ADDRESS]
 Party 2/Supplier:
 
-nter details of company including name, registration number and full address
-
-
-
-
-
+Enter details of company including name, registration number and full address
 
 Point of contact:
 
 Representative of Party 2 for contact
 
-
-
-
-
-
-
-
 Email address for notices:
-
-
 
 Commencement Date:
 
@@ -64,6 +44,7 @@ Services:
 
 Describe services to be provided in connection with this agreement
 The services consist of [market making the Client Cryptocurrency]. Further specifications of the services are described in the Appendix.
+
 Client Obligations:
 
 [Market Making] [The Client represents that the Client Cryptocurrency is not a regulated financial instrument in the jurisdiction where it is incorporated and in all other relevant jurisdictions where the token is listed or made available. The Supplier is able to request from the Client legal opinions as may be available to confirm that the Client Cryptocurrency is not a regulated financial instrument.]
